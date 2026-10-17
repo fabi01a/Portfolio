@@ -17,3 +17,15 @@ const PORT = 3000;
 app.listen(PORT, () => {
     console.log(`Server running on http://localhost:${PORT}`);
 });
+
+app.get('/projects/:id', (req, res, next) => {
+    const projectId = Number(req.params.id);
+
+    const project = projects.find(project => project.id === projectId);
+
+    if (!project) {
+        return next();
+    }
+
+    res.render('project', { project });
+});
