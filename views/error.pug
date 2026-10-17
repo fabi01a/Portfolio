@@ -1,0 +1,9 @@
+extends layout.pug
+
+block content
+    .inner-wrapper
+        .box
+            h1= error.status || 500
+            h2= message
+            p Sorry, something went wrong.
+            a(href='/') Return to Homepage
