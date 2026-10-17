@@ -1,0 +1,25 @@
+{
+  "name": "static_node_and_express_site-v1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabi01a/Portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/fabi01a/Portfolio/issues"
+  },
+  "homepage": "https://github.com/fabi01a/Portfolio#readme",
+  "dependencies": {
+    "express": "^5.3.0",
+    "pug": "^3.0.4"
+  }
+}
