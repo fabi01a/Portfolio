@@ -1,0 +1,96 @@
+{
+    "projects": [
+        {
+            "id": 1,
+            "project_name": "Mastermind Game",
+            "description": "A command-line code-breaking game built with Python and Flask.",
+            "technologies": [
+                "Python",
+                "Flask"
+            ],
+            "live_link": "",
+            "github_link": "https://github.com/fabi01a/MASTERMIND_GAME",
+            "image_urls": []
+        },
+        {
+            "id": 2,
+            "project_name": "Silicon Valley Trail",
+            "description": "A terminal-based simulation game built using Python and Codex",
+            "technologies": [
+                "Python",
+                "Codex"
+            ],
+            "live_link": "",
+            "github_link": "https://github.com/fabi01a/Silicone_Valley_Trail",
+            "image_urls": []
+        },
+        {
+            "id": 3,
+            "project_name": "Weather App",
+            "description": "A live weather app built using React and Vite",
+            "technologies": [
+                "React",
+                "Vite"
+            ],
+            "live_link": "",
+            "github_link": "https://github.com/fabi01a/weather-app",
+            "image_urls": []
+        },
+        {
+            "id": 4,
+            "project_name": "OOP Game",
+            "description": " A browser-based, word guessing game that uses JavaScript and OOP to select a random, hidden phrase.",
+            "technologies": [
+                "JavaScript"
+            ],
+            "live_link": "",
+            "github_link": "https://github.com/fabi01a/oop_game",
+            "image_urls": []
+        },
+        {
+            "id": 5,
+            "project_name": "Employee Directory",
+            "description": "A fictional employee directory using the Random User Generator API to grab information for 12 random 'employees'.",
+            "technologies": [
+                "JavaScript"
+            ],
+            "live_link": "",
+            "github_link": "https://github.com/fabi01a/public_api_request",
+            "image_urls": []
+        },
+        {
+            "id": 6,
+            "project_name": "Interactive Form",
+            "description": "An exercise working with interactvce forms using JavaScript to dynamically update the form according to user actions.",
+            "technologies": [
+                "JavaScript"
+            
+            ],
+            "live_link": "",
+            "github_link": "https://github.com/fabi01a/interactive-form",
+            "image_urls": []
+        },
+        {
+            "id": 7,
+            "project_name": "Data Pagination and Filtering",
+            "description": "A small project designed to practice data pagination, using event handlers, and accessing the DOM elements.",
+            "technologies": [
+                "JavaScript"
+            ],
+            "live_link": "",
+            "github_link": "https://github.com/fabi01a/Data-Pagination-and-Filtering",
+            "image_urls": []
+        },
+        {
+            "id": 8,
+            "project_name": "Random Quote Generator",
+            "description": "An exercise practicing basic JavaScript syntax and data structures by building a Random Quote Generator, which displays a random quote each time the user clicks a button. ",
+            "technologies": [
+                "JavaScript"
+            ],
+            "live_link": "",
+            "github_link": "https://github.com/fabi01a/random_quote_generator-1",
+            "image_urls": []
+        }
+    ]
+}
