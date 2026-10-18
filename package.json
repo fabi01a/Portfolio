@@ -1,10 +1,10 @@
 {
   "name": "static_node_and_express_site-v1",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "A dynamic software development portfolio built with Node.js, Express, and Pug, showcasing eight projects.",
+  "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
