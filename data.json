@@ -10,31 +10,30 @@
             ],
             "live_link": "",
             "github_link": "https://github.com/fabi01a/MASTERMIND_GAME",
-            "image_urls": []
+            "image_urls": ["/static/images/mastermind.png"]
         },
         {
             "id": 2,
             "project_name": "Silicon Valley Trail",
-            "description": "A terminal-based simulation game built using Python and Codex",
+            "description": "A terminal-based simulation game built using Python and Codex.",
             "technologies": [
                 "Python",
                 "Codex"
             ],
             "live_link": "",
             "github_link": "https://github.com/fabi01a/Silicone_Valley_Trail",
-            "image_urls": []
+            "image_urls": [ "/static/images/silicon valley.png"]
         },
         {
             "id": 3,
-            "project_name": "Weather App",
-            "description": "A live weather app built using React and Vite",
+            "project_name": "Adagrams",
+            "description": "An interactive word game built with Python.",
             "technologies": [
-                "React",
-                "Vite"
+                "Python"
             ],
             "live_link": "",
-            "github_link": "https://github.com/fabi01a/weather-app",
-            "image_urls": []
+            "github_link": "https://github.com/fabi01a/adagrams-py",
+            "image_urls": ["/static/images/adagrams.png"]
         },
         {
             "id": 4,
@@ -45,7 +44,7 @@
             ],
             "live_link": "",
             "github_link": "https://github.com/fabi01a/oop_game",
-            "image_urls": []
+            "image_urls": ["/static/images/Phrase Hunter.png"]
         },
         {
             "id": 5,
@@ -56,7 +55,7 @@
             ],
             "live_link": "",
             "github_link": "https://github.com/fabi01a/public_api_request",
-            "image_urls": []
+            "image_urls": ["/static/images/employee_directory.png"]
         },
         {
             "id": 6,
@@ -68,7 +67,7 @@
             ],
             "live_link": "",
             "github_link": "https://github.com/fabi01a/interactive-form",
-            "image_urls": []
+            "image_urls": ["/static/images/interactive form.png"]
         },
         {
             "id": 7,
@@ -79,18 +78,18 @@
             ],
             "live_link": "",
             "github_link": "https://github.com/fabi01a/Data-Pagination-and-Filtering",
-            "image_urls": []
+            "image_urls": ["/static/images/student_directory.png"]
         },
         {
             "id": 8,
             "project_name": "Random Quote Generator",
-            "description": "An exercise practicing basic JavaScript syntax and data structures by building a Random Quote Generator, which displays a random quote each time the user clicks a button. ",
+            "description": "An exercise practicing basic JavaScript syntax and data structures by building a Random Quote Generator, which displays a random quote each time the user clicks a button.",
             "technologies": [
                 "JavaScript"
             ],
             "live_link": "",
             "github_link": "https://github.com/fabi01a/random_quote_generator-1",
-            "image_urls": []
+            "image_urls": ["/static/images/random_quote.png"]
         }
     ]
 }
