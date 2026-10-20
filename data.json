@@ -27,7 +27,7 @@
         {
             "id": 3,
             "project_name": "Adagrams",
-            "description": "An interactive word game built with Python.",
+            "description": "An interactive terminal-based word guessing game built with Python.",
             "technologies": [
                 "Python"
             ],
