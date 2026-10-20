@@ -8,7 +8,7 @@
                 "Python",
                 "Flask"
             ],
-            "live_link": "",
+            "live_link": "https://github.com/fabi01a/MASTERMIND_GAME",
             "github_link": "https://github.com/fabi01a/MASTERMIND_GAME",
             "image_urls": ["/static/images/mastermind.png"]
         },
@@ -20,7 +20,7 @@
                 "Python",
                 "Codex"
             ],
-            "live_link": "",
+            "live_link": "https://github.com/fabi01a/Silicone_Valley_Trail",
             "github_link": "https://github.com/fabi01a/Silicone_Valley_Trail",
             "image_urls": [ "/static/images/silicon valley.png"]
         },
@@ -31,7 +31,7 @@
             "technologies": [
                 "Python"
             ],
-            "live_link": "",
+            "live_link": "https://github.com/fabi01a/adagrams-py",
             "github_link": "https://github.com/fabi01a/adagrams-py",
             "image_urls": ["/static/images/adagrams.png"]
         },
@@ -42,7 +42,7 @@
             "technologies": [
                 "JavaScript"
             ],
-            "live_link": "",
+            "live_link": "https://fabi01a.github.io/oop_game/",
             "github_link": "https://github.com/fabi01a/oop_game",
             "image_urls": ["/static/images/Phrase Hunter.png"]
         },
@@ -53,7 +53,7 @@
             "technologies": [
                 "JavaScript"
             ],
-            "live_link": "",
+            "live_link": "https://fabi01a.github.io/public_api_request/",
             "github_link": "https://github.com/fabi01a/public_api_request",
             "image_urls": ["/static/images/employee_directory.png"]
         },
@@ -65,7 +65,7 @@
                 "JavaScript"
             
             ],
-            "live_link": "",
+            "live_link": "https://fabi01a.github.io/interactive-form/",
             "github_link": "https://github.com/fabi01a/interactive-form",
             "image_urls": ["/static/images/interactive form.png"]
         },
@@ -76,7 +76,7 @@
             "technologies": [
                 "JavaScript"
             ],
-            "live_link": "",
+            "live_link": "https://fabi01a.github.io/Data-Pagination-and-Filtering/",
             "github_link": "https://github.com/fabi01a/Data-Pagination-and-Filtering",
             "image_urls": ["/static/images/student_directory.png"]
         },
@@ -87,7 +87,7 @@
             "technologies": [
                 "JavaScript"
             ],
-            "live_link": "",
+            "live_link": "https://fabi01a.github.io/treehouse-random_quote_generator-1/",
             "github_link": "https://github.com/fabi01a/treehouse-random_quote_generator-1",
             "image_urls": ["/static/images/random_quote.png"]
         }
